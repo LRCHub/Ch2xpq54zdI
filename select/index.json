@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "もしも運命の人がいるのなら",
+  "base_artist": "Kana Nishino",
+  "createdAt": "2026-02-28T15:55:43.729617Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "もしも運命の人がいるのなら",
+      "artist": "Kana Nishino",
+      "has_synced": true,
+      "path": "select/01_もしも運命の人がいるのなら_Kana_Nishino.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "もしも運命の人がいるのなら",
+      "artist": "西野カナ",
+      "has_synced": true,
+      "path": "select/02_もしも運命の人がいるのなら_西野カナ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "もしも運命の人がいるのなら (如果存在命中注定的人)",
+      "artist": "西野加奈",
+      "has_synced": true,
+      "path": "select/03_もしも運命の人がいるのなら_(如果存在命中注定的人)_西野加奈.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "もしも運命の人がいるのなら - Moshimo Unmeinohitoga Irunonara",
+      "artist": "Kana Nishino",
+      "has_synced": true,
+      "path": "select/04_もしも運命の人がいるのなら_-_Moshimo_Unmeinohitoga_Irunonara_Kana_Nishino.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "もしも運命の人がいるのなら",
+      "artist": "西野カナ",
+      "has_synced": true,
+      "path": "select/05_もしも運命の人がいるのなら_西野カナ.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "もしも運命の人がいるのなら - Moshimo Unmeinohitoga Irunonara",
+      "artist": "Kana Nishino",
+      "has_synced": true,
+      "path": "select/06_もしも運命の人がいるのなら_-_Moshimo_Unmeinohitoga_Irunonara_Kana_Nishino.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "もしも運命の人がいるのなら",
+      "artist": "Kana Nishino",
+      "has_synced": true,
+      "path": "select/07_もしも運命の人がいるのなら_Kana_Nishino.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "もしも運命の人がいるのなら",
+      "artist": "西野カナ",
+      "has_synced": true,
+      "path": "select/08_もしも運命の人がいるのなら_西野カナ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "もしも運命の人がいるのなら",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_01_もしも運命の人がいるのなら_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "もしも運命の人がいるのなら",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_02_もしも運命の人がいるのなら_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "もしも運命の人がいるのなら",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_03_もしも運命の人がいるのなら_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "もしも運命の人がいるのなら",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_04_もしも運命の人がいるのなら_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "もしも運命の人がいるのなら",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_05_もしも運命の人がいるのなら_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_6",
+      "source": "petitlyrics",
+      "title": "もしも運命の人がいるのなら",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_06_もしも運命の人がいるのなら_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_7",
+      "source": "petitlyrics",
+      "title": "もしも運命の人がいるのなら",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_07_もしも運命の人がいるのなら_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_8",
+      "source": "petitlyrics",
+      "title": "もしも運命の人がいるのなら",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_08_もしも運命の人がいるのなら_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_9",
+      "source": "petitlyrics",
+      "title": "もしも運命の人がいるのなら",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_09_もしも運命の人がいるのなら_西野_カナ.txt"
+    },
+    {
+      "id": "petitlyrics_10",
+      "source": "petitlyrics",
+      "title": "もしも運命の人がいるのなら",
+      "artist": "西野 カナ",
+      "has_synced": false,
+      "path": "select/pl_10_もしも運命の人がいるのなら_西野_カナ.txt"
+    }
+  ]
+}
